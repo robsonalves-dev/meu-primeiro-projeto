@@ -22,17 +22,19 @@ h1 {
 .btn {
   display: inline-block;
   margin-top: 30px;
-  padding: 12px 25px;
+  padding: 14px 30px;
   background-color: #24292e;
   color: #ffffff;
   text-decoration: none;
-  border-radius: 6px;
+  border-radius: 8px;
   font-weight: bold;
+  transition: background 0.3s;
 }
 
 .btn:hover {
   background-color: #000;
 }
+
 
 
 p {
