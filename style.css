@@ -19,6 +19,21 @@ h1 {
   color: #222;
   margin-bottom: 20px;
 }
+.btn {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 12px 25px;
+  background-color: #24292e;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #000;
+}
+
 
 p {
   color: #555;
